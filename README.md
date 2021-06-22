@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction-using-Machine-learning-
+# Heart-Disease-Prediction-using-Machine-learning-Algorithms
 ## Introduction
 Heart Disease refers to conditions that involve narrowed or blocked blood vessels that can lead to a heart. The term “heart disease” is often used interchangeably with the term “cardiovascular disease”.
 ## Problem Statement
